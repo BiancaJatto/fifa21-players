@@ -1,6 +1,9 @@
+
 # fifa21-players
 #datacleaning_with_excel
 The dateset used for this data cleaning project was gootten from kaggle.
+
+The dataset contains 2 Worksheets, the first contains tthe raw data and the second contains the clean data.
 
 Steps taken to clean the dataset include tthe following
 * I seperated the contract column into contract started and contract end columns
